@@ -4,7 +4,7 @@
  ### [YouTube Demonstration](https://youtu.be/DWXBxYv2UXs)
 
 <h2>Description</h2>
-The project consist of creating a virtual machine on azure which we needed 2 things the resource group which act as a folder in the cloud then next we when and created and storage which where going to put that in the resource group then after that we then creat our vitual machine.
+The project consist of creating a virtual machine on azure which we needed 2 things the resource group which act as a folder in the cloud then next we when and created and storage which where going to put that in the resource group then after that we then creat our virtual machine.
 <br />
 
 
