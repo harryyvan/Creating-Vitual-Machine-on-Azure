@@ -1,5 +1,5 @@
 
-<h1>Azure Vitual Machine</h1>
+<h1>Azure Virtual Machine</h1>
 
  ### [YouTube Demonstration](https://youtu.be/DWXBxYv2UXs)
 
