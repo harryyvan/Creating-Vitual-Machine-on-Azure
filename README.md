@@ -4,18 +4,18 @@
  ### [YouTube Demonstration](https://youtu.be/DWXBxYv2UXs)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The project consist of creating a virtual machine on azure which we needed 2 things the resource group which act as a folder in the cloud then next we when and created and storage which where going to put that in the resource group then after that we then creat our vitual machine.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Azure from Microsoft</b> 
+- <b>Remote Desktop</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b> Azure Cloud</b>
 
 <h2>Program walk-through:</h2>
 
